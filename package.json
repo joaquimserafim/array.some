@@ -1,6 +1,6 @@
 {
   "name": "array.some",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "tests whether some element in the array passes the test implemented by the provided function",
   "main": "index.js",
   "files": [
