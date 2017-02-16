@@ -12,7 +12,7 @@ const some = require('.')
 
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-test('', (assert) => {
+test('array.some', (assert) => {
 
   assert
     .deepEqual(
